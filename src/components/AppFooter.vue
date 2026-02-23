@@ -2,7 +2,7 @@
     <footer class="footer" id="footer">
         <div class="container footer__container">
             <div class="footer__logo">
-                <img src="../assets/images/header/jpg" alt="Логотип" />
+                <img src="../assets/images/header/logo.png" alt="Логотип" />
             </div>
 
             <div class="footer__info">
