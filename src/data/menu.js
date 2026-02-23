@@ -6,7 +6,7 @@ export const menuItems = [
         name: "Куриные наггетсы с картофелем фри",
         weight: "350г",
         price: 349,
-        image: "/images/menu/fastfood/1.jpg",
+        image: "/tokyo05/images/menu/fastfood/1.jpg",
     },
     {
         id: 2,
@@ -14,7 +14,7 @@ export const menuItems = [
         name: "Бургер говяжий с картофелем фри и с соусом",
         weight: "400г",
         price: 399,
-        image: "/images/menu/fastfood/2.jpg",
+        image: "/tokyo05/images/menu/fastfood/2.jpg",
     },
     {
         id: 3,
@@ -22,7 +22,7 @@ export const menuItems = [
         name: "Бургер куриный с картофелем фри и с соусом",
         weight: "530г",
         price: 379,
-        image: "/images/menu/fastfood/3.jpg",
+        image: "/tokyo05/images/menu/fastfood/3.jpg",
     },
     {
         id: 4,
@@ -30,7 +30,7 @@ export const menuItems = [
         name: "Твистер куриный",
         weight: "320г",
         price: 269,
-        image: "/images/menu/fastfood/4.jpg",
+        image: "/tokyo05/images/menu/fastfood/4.jpg",
     },
     {
         id: 5,
@@ -38,7 +38,7 @@ export const menuItems = [
         name: "Креветки в кляре с соусом спайс",
         weight: "160г",
         price: 369,
-        image: "/images/menu/fastfood/5.jpg",
+        image: "/tokyo05/images/menu/fastfood/5.jpg",
     },
     {
         id: 6,
@@ -46,7 +46,7 @@ export const menuItems = [
         name: "Сырные палочки с соусом спайс",
         weight: "190г",
         price: 269,
-        image: "/images/menu/fastfood/6.jpg",
+        image: "/tokyo05/images/menu/fastfood/6.jpg",
     },
     {
         id: 7,
@@ -54,7 +54,7 @@ export const menuItems = [
         name: "Шаурма в кляре",
         weight: "400г",
         price: 249,
-        image: "/images/menu/fastfood/7.jpg",
+        image: "/tokyo05/images/menu/fastfood/7.jpg",
     },
 
     // Пицца
@@ -64,7 +64,7 @@ export const menuItems = [
         name: "Квадро формаджи",
         weight: "640г",
         price: 399,
-        image: "/images/menu/pizza/1.jpg",
+        image: "/tokyo05/images/menu/pizza/1.jpg",
     },
     {
         id: 9,
@@ -72,7 +72,7 @@ export const menuItems = [
         name: "Куриная с грибами",
         weight: "790г",
         price: 399,
-        image: "/images/menu/pizza/1.jpg",
+        image: "/tokyo05/images/menu/pizza/1.jpg",
     },
     {
         id: 10,
@@ -80,7 +80,7 @@ export const menuItems = [
         name: "Маргарита",
         weight: "480г",
         price: 349,
-        image: "/images/menu/pizza/1.jpg",
+        image: "/tokyo05/images/menu/pizza/1.jpg",
     },
     {
         id: 11,
@@ -88,7 +88,7 @@ export const menuItems = [
         name: "Пепперони",
         weight: "500г",
         price: 399,
-        image: "/images/menu/pizza/1.jpg",
+        image: "/tokyo05/images/menu/pizza/1.jpg",
     },
     {
         id: 12,
@@ -96,7 +96,7 @@ export const menuItems = [
         name: "Цезарь",
         weight: "580г",
         price: 389,
-        image: "/images/menu/pizza/1.jpg",
+        image: "/tokyo05/images/menu/pizza/1.jpg",
     },
 
     // Завтраки
@@ -106,7 +106,7 @@ export const menuItems = [
         name: "Овсяная каша с фруктами и орехами",
         weight: "450г",
         price: 229,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 14,
@@ -114,7 +114,7 @@ export const menuItems = [
         name: "Рисовая каша с клубничным вареньем",
         weight: "450г",
         price: 229,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 15,
@@ -122,7 +122,7 @@ export const menuItems = [
         name: "Глазки с овощами",
         weight: "400г",
         price: 269,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 16,
@@ -130,7 +130,7 @@ export const menuItems = [
         name: "Глазки с помидорами",
         weight: "400г",
         price: 269,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 17,
@@ -138,7 +138,7 @@ export const menuItems = [
         name: "Омлет с овощами",
         weight: "400г",
         price: 269,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 18,
@@ -146,7 +146,7 @@ export const menuItems = [
         name: "Омлет с грибами",
         weight: "400г",
         price: 269,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 19,
@@ -154,7 +154,7 @@ export const menuItems = [
         name: "Сэндвич с копч. курицей",
         weight: "250г",
         price: 269,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 20,
@@ -162,7 +162,7 @@ export const menuItems = [
         name: "Сэндвич с лососем",
         weight: "250г",
         price: 349,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 21,
@@ -170,7 +170,7 @@ export const menuItems = [
         name: "Немецкий завтрак",
         weight: "480г",
         price: 369,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 22,
@@ -178,7 +178,7 @@ export const menuItems = [
         name: "Английский завтрак",
         weight: "500г",
         price: 369,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 23,
@@ -186,7 +186,7 @@ export const menuItems = [
         name: "Турецкий завтрак",
         weight: "500г",
         price: 369,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
     {
         id: 24,
@@ -194,7 +194,7 @@ export const menuItems = [
         name: "Французский завтрак",
         weight: "500г",
         price: 369,
-        image: "/images/menu/breakfast/1.jpg",
+        image: "/tokyo05/images/menu/breakfast/1.jpg",
     },
 
     // Блины
@@ -204,7 +204,7 @@ export const menuItems = [
         name: "Блины со сгущенкой",
         weight: "200г",
         price: 220,
-        image: "/images/menu/bliny/1.jpg",
+        image: "/tokyo05/images/menu/bliny/1.jpg",
     },
     {
         id: 26,
@@ -212,7 +212,7 @@ export const menuItems = [
         name: "Блины с творогом",
         weight: "520г",
         price: 240,
-        image: "/images/menu/bliny/1.jpg",
+        image: "/tokyo05/images/menu/bliny/1.jpg",
     },
     {
         id: 27,
@@ -220,7 +220,7 @@ export const menuItems = [
         name: "Блины со сметаной",
         weight: "350г",
         price: 199,
-        image: "/images/menu/bliny/1.jpg",
+        image: "/tokyo05/images/menu/bliny/1.jpg",
     },
     {
         id: 28,
@@ -228,7 +228,7 @@ export const menuItems = [
         name: "Блины с семгой",
         weight: "",
         price: 399,
-        image: "/images/menu/bliny/1.jpg",
+        image: "/tokyo05/images/menu/bliny/1.jpg",
     },
 
     // Гарниры/Закуски
@@ -238,7 +238,7 @@ export const menuItems = [
         name: "Картофель по-деревенски с томатным соусом",
         weight: "150г",
         price: 169,
-        image: "/images/menu/sides/1.jpg",
+        image: "/tokyo05/images/menu/sides/1.jpg",
     },
     {
         id: 30,
@@ -246,7 +246,7 @@ export const menuItems = [
         name: "Картофель фри с томатным соусом",
         weight: "150г",
         price: 169,
-        image: "/images/menu/sides/1.jpg",
+        image: "/tokyo05/images/menu/sides/1.jpg",
     },
     {
         id: 31,
@@ -254,7 +254,7 @@ export const menuItems = [
         name: "Картофельное пюре",
         weight: "150г",
         price: 149,
-        image: "/images/menu/sides/1.jpg",
+        image: "/tokyo05/images/menu/sides/1.jpg",
     },
 
     // Десерты
@@ -264,7 +264,7 @@ export const menuItems = [
         name: "Варенье в ассортименте",
         weight: "150г",
         price: 219,
-        image: "/images/menu/desserts/1.jpg",
+        image: "/tokyo05/images/menu/desserts/1.jpg",
     },
     {
         id: 33,
@@ -272,7 +272,7 @@ export const menuItems = [
         name: "Плитка шоколадная",
         weight: "1шт",
         price: 169,
-        image: "/images/menu/desserts/1.jpg",
+        image: "/tokyo05/images/menu/desserts/1.jpg",
     },
     {
         id: 34,
@@ -280,7 +280,7 @@ export const menuItems = [
         name: "Сан-себастьян",
         weight: "1кус",
         price: 299,
-        image: "/images/menu/desserts/1.jpg",
+        image: "/tokyo05/images/menu/desserts/1.jpg",
     },
     {
         id: 35,
@@ -288,7 +288,7 @@ export const menuItems = [
         name: "Трайфл",
         weight: "1шт",
         price: 289,
-        image: "/images/menu/desserts/1.jpg",
+        image: "/tokyo05/images/menu/desserts/1.jpg",
     },
     {
         id: 36,
@@ -296,7 +296,7 @@ export const menuItems = [
         name: "Мороженое",
         weight: "1шт",
         price: 89,
-        image: "/images/menu/desserts/1.jpg",
+        image: "/tokyo05/images/menu/desserts/1.jpg",
     },
 
     // Напитки
@@ -306,7 +306,7 @@ export const menuItems = [
         name: "Вода без газа",
         weight: "0.5л",
         price: 99,
-        image: "/images/menu/drinks/1.jpg",
+        image: "/tokyo05/images/menu/drinks/1.jpg",
     },
     {
         id: 38,
@@ -314,7 +314,7 @@ export const menuItems = [
         name: "Минеральная вода",
         weight: "",
         price: 139,
-        image: "/images/menu/drinks/1.jpg",
+        image: "/tokyo05/images/menu/drinks/1.jpg",
     },
     {
         id: 39,
@@ -322,7 +322,7 @@ export const menuItems = [
         name: "Кока Кола",
         weight: "0.33л",
         price: 119,
-        image: "/images/menu/drinks/1.jpg",
+        image: "/tokyo05/images/menu/drinks/1.jpg",
     },
     {
         id: 40,
@@ -330,7 +330,7 @@ export const menuItems = [
         name: "Спрайт",
         weight: "0.33л",
         price: 119,
-        image: "/images/menu/drinks/1.jpg",
+        image: "/tokyo05/images/menu/drinks/1.jpg",
     },
     {
         id: 41,
@@ -338,7 +338,7 @@ export const menuItems = [
         name: "Фанта",
         weight: "0.33л",
         price: 119,
-        image: "/images/menu/drinks/1.jpg",
+        image: "/tokyo05/images/menu/drinks/1.jpg",
     },
     {
         id: 42,
@@ -346,7 +346,7 @@ export const menuItems = [
         name: "Сок натуральный",
         weight: "1л",
         price: 269,
-        image: "/images/menu/drinks/1.jpg",
+        image: "/tokyo05/images/menu/drinks/1.jpg",
     },
 
     // Кофе
@@ -356,7 +356,7 @@ export const menuItems = [
         name: "Американо",
         weight: "200мл",
         price: 149,
-        image: "/images/menu/coffee/1.jpg",
+        image: "/tokyo05/images/menu/coffee/1.jpg",
     },
     {
         id: 44,
@@ -364,7 +364,7 @@ export const menuItems = [
         name: "Глясе",
         weight: "180мл",
         price: 219,
-        image: "/images/menu/coffee/1.jpg",
+        image: "/tokyo05/images/menu/coffee/1.jpg",
     },
     {
         id: 45,
@@ -372,7 +372,7 @@ export const menuItems = [
         name: "Допио",
         weight: "60мл",
         price: 169,
-        image: "/images/menu/coffee/1.jpg",
+        image: "/tokyo05/images/menu/coffee/1.jpg",
     },
     {
         id: 46,
@@ -380,7 +380,7 @@ export const menuItems = [
         name: "Капучино",
         weight: "230мл",
         price: 199,
-        image: "/images/menu/coffee/1.jpg",
+        image: "/tokyo05/images/menu/coffee/1.jpg",
     },
     {
         id: 47,
@@ -388,7 +388,7 @@ export const menuItems = [
         name: "Айс Кофе",
         weight: "250мл",
         price: 229,
-        image: "/images/menu/coffee/1.jpg",
+        image: "/tokyo05/images/menu/coffee/1.jpg",
     },
     {
         id: 48,
@@ -396,7 +396,7 @@ export const menuItems = [
         name: "Айс Латте",
         weight: "250мл",
         price: 199,
-        image: "/images/menu/coffee/1.jpg",
+        image: "/tokyo05/images/menu/coffee/1.jpg",
     },
     {
         id: 49,
@@ -404,7 +404,7 @@ export const menuItems = [
         name: "Раф с Урбечом",
         weight: "200мл",
         price: 229,
-        image: "/images/menu/coffee/1.jpg",
+        image: "/tokyo05/images/menu/coffee/1.jpg",
     },
     {
         id: 50,
@@ -412,7 +412,7 @@ export const menuItems = [
         name: "Раф Классический",
         weight: "200мл",
         price: 219,
-        image: "/images/menu/coffee/1.jpg",
+        image: "/tokyo05/images/menu/coffee/1.jpg",
     },
     {
         id: 51,
@@ -420,7 +420,7 @@ export const menuItems = [
         name: "Эспрессо",
         weight: "30мл",
         price: 139,
-        image: "/images/menu/coffee/1.jpg",
+        image: "/tokyo05/images/menu/coffee/1.jpg",
     },
 
     // Чай
@@ -430,7 +430,7 @@ export const menuItems = [
         name: "Байский",
         weight: "0.7л",
         price: 299,
-        image: "/images/menu/tea/1.jpg",
+        image: "/tokyo05/images/menu/tea/1.jpg",
     },
     {
         id: 53,
@@ -438,7 +438,7 @@ export const menuItems = [
         name: "Имбирь-Яблоко",
         weight: "0.7л",
         price: 299,
-        image: "/images/menu/tea/1.jpg",
+        image: "/tokyo05/images/menu/tea/1.jpg",
     },
     {
         id: 54,
@@ -446,7 +446,7 @@ export const menuItems = [
         name: "Клюква-Малина",
         weight: "0.7л",
         price: 299,
-        image: "/images/menu/tea/1.jpg",
+        image: "/tokyo05/images/menu/tea/1.jpg",
     },
     {
         id: 55,
@@ -454,7 +454,7 @@ export const menuItems = [
         name: "Облепиховый",
         weight: "0.7л",
         price: 319,
-        image: "/images/menu/tea/1.jpg",
+        image: "/tokyo05/images/menu/tea/1.jpg",
     },
     {
         id: 56,
@@ -462,7 +462,7 @@ export const menuItems = [
         name: "Ягодный",
         weight: "0.7л",
         price: 319,
-        image: "/images/menu/tea/1.jpg",
+        image: "/tokyo05/images/menu/tea/1.jpg",
     },
     {
         id: 57,
@@ -470,7 +470,7 @@ export const menuItems = [
         name: "Эрл грей",
         weight: "0.7л",
         price: 219,
-        image: "/images/menu/tea/1.jpg",
+        image: "/tokyo05/images/menu/tea/1.jpg",
     },
     {
         id: 58,
@@ -478,7 +478,7 @@ export const menuItems = [
         name: "Ассам пекое",
         weight: "0.7л",
         price: 210,
-        image: "/images/menu/tea/1.jpg",
+        image: "/tokyo05/images/menu/tea/1.jpg",
     },
     {
         id: 59,
@@ -486,7 +486,7 @@ export const menuItems = [
         name: "Молочный улун",
         weight: "0.7л",
         price: 249,
-        image: "/images/menu/tea/1.jpg",
+        image: "/tokyo05/images/menu/tea/1.jpg",
     },
     {
         id: 60,
@@ -494,7 +494,7 @@ export const menuItems = [
         name: "Сенча",
         weight: "0.7л",
         price: 210,
-        image: "/images/menu/tea/1.jpg",
+        image: "/tokyo05/images/menu/tea/1.jpg",
     },
     {
         id: 61,
@@ -502,7 +502,7 @@ export const menuItems = [
         name: "Травяной сбор",
         weight: "0.7л",
         price: 249,
-        image: "/images/menu/tea/1.jpg",
+        image: "/tokyo05/images/menu/tea/1.jpg",
     },
 
     // Лимонады
@@ -512,7 +512,7 @@ export const menuItems = [
         name: "Манго-маракуйя",
         weight: "0.3л",
         price: 199,
-        image: "/images/menu/lemonade/1.jpg",
+        image: "/tokyo05/images/menu/lemonade/1.jpg",
     },
     {
         id: 63,
@@ -520,7 +520,7 @@ export const menuItems = [
         name: "Щавелевый",
         weight: "0.3л",
         price: 199,
-        image: "/images/menu/lemonade/1.jpg",
+        image: "/tokyo05/images/menu/lemonade/1.jpg",
     },
     {
         id: 64,
@@ -528,7 +528,7 @@ export const menuItems = [
         name: "Ананас-манго",
         weight: "0.3л",
         price: 199,
-        image: "/images/menu/lemonade/1.jpg",
+        image: "/tokyo05/images/menu/lemonade/1.jpg",
     },
     {
         id: 65,
@@ -536,7 +536,7 @@ export const menuItems = [
         name: "Мохито классический",
         weight: "0.3л",
         price: 199,
-        image: "/images/menu/lemonade/1.jpg",
+        image: "/tokyo05/images/menu/lemonade/1.jpg",
     },
     {
         id: 66,
@@ -544,7 +544,7 @@ export const menuItems = [
         name: "Мохито клубничный",
         weight: "0.3л",
         price: 199,
-        image: "/images/menu/lemonade/1.jpg",
+        image: "/tokyo05/images/menu/lemonade/1.jpg",
     },
     {
         id: 67,
@@ -552,7 +552,7 @@ export const menuItems = [
         name: "Лесные ягоды",
         weight: "0.3л",
         price: 199,
-        image: "/images/menu/lemonade/1.jpg",
+        image: "/tokyo05/images/menu/lemonade/1.jpg",
     },
     {
         id: 68,
@@ -560,7 +560,7 @@ export const menuItems = [
         name: "Голубая лагуна",
         weight: "0.3л",
         price: 199,
-        image: "/images/menu/lemonade/1.jpg",
+        image: "/tokyo05/images/menu/lemonade/1.jpg",
     },
 
     // Коктейли и смузи
@@ -570,7 +570,7 @@ export const menuItems = [
         name: "Шоколадно-банановый",
         weight: "300мл",
         price: 239,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 70,
@@ -578,7 +578,7 @@ export const menuItems = [
         name: "Банановый рай",
         weight: "300мл",
         price: 229,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 71,
@@ -586,7 +586,7 @@ export const menuItems = [
         name: "Ванильная нежность",
         weight: "300мл",
         price: 229,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 72,
@@ -594,7 +594,7 @@ export const menuItems = [
         name: "Клубничный шарм",
         weight: "300мл",
         price: 219,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 73,
@@ -602,7 +602,7 @@ export const menuItems = [
         name: "Орео",
         weight: "300мл",
         price: 249,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 74,
@@ -610,7 +610,7 @@ export const menuItems = [
         name: "Шоколадный хит",
         weight: "300мл",
         price: 249,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 75,
@@ -618,7 +618,7 @@ export const menuItems = [
         name: "Сникерс",
         weight: "300мл",
         price: 249,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 76,
@@ -626,7 +626,7 @@ export const menuItems = [
         name: "Черничный смузи",
         weight: "400мл",
         price: 249,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 77,
@@ -634,7 +634,7 @@ export const menuItems = [
         name: "Малиновый смузи",
         weight: "400мл",
         price: 249,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 78,
@@ -642,7 +642,7 @@ export const menuItems = [
         name: "Пеликан смузи",
         weight: "400мл",
         price: 249,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 79,
@@ -650,7 +650,7 @@ export const menuItems = [
         name: "Ананас-Киви смузи",
         weight: "400мл",
         price: 249,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 80,
@@ -658,7 +658,7 @@ export const menuItems = [
         name: "Ананас-Клубника смузи",
         weight: "400мл",
         price: 249,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 81,
@@ -666,7 +666,7 @@ export const menuItems = [
         name: "Ягодная четверка смузи",
         weight: "400мл",
         price: 249,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 82,
@@ -674,7 +674,7 @@ export const menuItems = [
         name: "Ананасовый фреш",
         weight: "200мл",
         price: 249,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 83,
@@ -682,7 +682,7 @@ export const menuItems = [
         name: "Апельсиновый фреш",
         weight: "200мл",
         price: 219,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
     {
         id: 84,
@@ -690,7 +690,7 @@ export const menuItems = [
         name: "Яблочный фреш",
         weight: "200мл",
         price: 219,
-        image: "/images/menu/cocktails/1.jpg",
+        image: "/tokyo05/images/menu/cocktails/1.jpg",
     },
 ]
 
