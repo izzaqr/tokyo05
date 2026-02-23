@@ -6,6 +6,7 @@ import MenuFilter from "./components/MenuFilter.vue"
 import MenuSection from "./components/MenuSection.vue"
 import CartSidebar from "./components/CartSidebar.vue"
 import AppFooter from "./components/AppFooter.vue"
+import ScrollToTop from "./components/ScrollToTop.vue"
 
 const cartOpen = ref(false)
 
@@ -27,6 +28,7 @@ watch(activeCategory, (val) => {
         <MenuSection :activeCategory="activeCategory" />
         <CartSidebar :isOpen="cartOpen" @close="cartOpen = false" />
         <AppFooter />
+        <ScrollToTop />
     </div>
 </template>
 
