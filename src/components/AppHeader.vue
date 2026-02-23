@@ -3,7 +3,7 @@
         <div class="container header__container">
             <a href="/" class="logo">
                 <img
-                    src="../assets/images/header/logo.jpg"
+                    src="../assets/images/header/logo.png"
                     alt="Логотип кафе"
                 />
             </a>
