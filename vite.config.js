@@ -7,14 +7,9 @@ export default defineConfig({
     plugins: [
         vue(),
         ViteImageOptimizer({
-            includePublic: true,
             jpg: { quality: 80 },
             png: { quality: 80 },
             webp: { quality: 80 },
-            convertToWebp: {
-                jpg: true,
-                png: true,
-            },
         }),
     ],
     base: "/tokyo05/",
