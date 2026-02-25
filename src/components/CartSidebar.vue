@@ -53,9 +53,7 @@ const orderViaWhatsapp = () => {
     const encoded = encodeURIComponent(text)
     window.open(
         `https://api.whatsapp.com/send/?phone=89640086644&text=${encoded}`,
-        "_blank",
-        // `https://api.whatsapp.com/send/?phone=89993116354&text=${encoded}`,
-        // "_blank",
+        "_blank"
     )
 }
 </script>
