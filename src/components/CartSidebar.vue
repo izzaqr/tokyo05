@@ -52,9 +52,10 @@ const orderViaWhatsapp = () => {
     const text = `Здравствуйте! Хочу сделать заказ:\n\n${lines.join("\n")}\n\nИтого: ${totalPrice.value} ₽`
     const encoded = encodeURIComponent(text)
     window.open(
-        `https://api.whatsapp.com/send/?phone=89640086644&text=${encoded}`,
-        "_blank"
-    )
+  `https://wa.me/89640086644?text=${encoded}`,
+  '_blank'
+)
+
 }
 </script>
 
