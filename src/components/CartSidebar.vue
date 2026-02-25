@@ -46,15 +46,20 @@ defineEmits(["close"])
 const { items, increaseQty, decreaseQty, totalPrice } = useCart()
 
 const orderViaWhatsapp = () => {
+    if (!items.value.length) {
+        alert("Корзина пуста")
+        return
+    }
+
     const lines = items.value.map(
         (i) => `• ${i.name} x${i.quantity} — ${i.price * i.quantity} ₽`,
     )
+
     const text = `Здравствуйте! Хочу сделать заказ:\n\n${lines.join("\n")}\n\nИтого: ${totalPrice.value} ₽`
+
     const encoded = encodeURIComponent(text)
-    window.open(
-        `https://wa.me/79640086644?text=79640086644&text=${encoded}`,
-        "_blank",
-    )
+
+    window.location.href = `https://wa.me/79640086644?text=${encoded}`
 }
 </script>
 
