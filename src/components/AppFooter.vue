@@ -7,8 +7,8 @@
 
             <div class="footer__info">
                 <p class="footer__title">Контакты</p>
-                <a href="tel:+79640086644">+7 (964) 008-66-44</a>
-                <a href="tel:+79382082022">+7 (938) 208-20-22</a>
+                <a href="tel:+79993116354">+7 (999) 311-63-54</a>
+                <a href="tel:+79993116354">+7 (999) 311-63-54</a>
                 <p>Дербент, ул. Юрия Гагарина, 18М</p>
                 <p>Ежедневно 10:00 — 23:00</p>
             </div>
@@ -23,7 +23,7 @@
                         <Instagram :size="28" />
                     </a>
                     <a
-                        href="https://api.whatsapp.com/send/?phone=89640086644&text&type=phone_number&app_absent=0"
+                        href="https://api.whatsapp.com/send/?phone=89993116354&text&type=phone_number&app_absent=0"
                         target="_blank"
                     >
                         <MessageCircle :size="28" />

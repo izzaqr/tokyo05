@@ -59,7 +59,7 @@ const orderViaWhatsapp = () => {
 
     const encoded = encodeURIComponent(text)
 
-    window.location.href = `https://wa.me/79640086644?text=${encoded}`
+    window.location.href = `https://wa.me/79993116354?text=${encoded}`
 }
 </script>
 
