@@ -191,4 +191,38 @@ function getByCategory(catId) {
 .menu__card-btn:hover {
     background: #c0392b;
 }
+
+@media (max-width: 550px) {
+    .menu__grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+
+    .menu__card-body {
+        padding: 10px;
+    }
+
+    .menu__card-name {
+        font-size: 13px;
+        margin-bottom: 8px;
+    }
+
+    .menu__card-price {
+        font-size: 15px;
+    }
+
+    .menu__card-weight {
+        font-size: 11px;
+    }
+
+    .menu__card-btn {
+        width: 26px;
+        height: 26px;
+        font-size: 18px;
+    }
+
+    .menu__group-title {
+        font-size: 22px;
+    }
+}
 </style>
